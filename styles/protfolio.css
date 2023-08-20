@@ -1,0 +1,18 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.banner{
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 600px;
+}
+.banner-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
