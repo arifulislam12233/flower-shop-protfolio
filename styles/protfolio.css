@@ -7,6 +7,7 @@ body{
 .banner{
     display: flex;
     align-items: center;
+    
 }
 .banner .profile-pic{
     width: 600px;
@@ -15,4 +16,47 @@ body{
     color: #272727;
 font-size: 80px;
 font-weight: 800;
+
+
+}
+.background-color{
+    background: rgba(229, 84, 115, 0.10);
+    
+}
+.button-primary{
+    border-radius: 8px;
+background: #E55473;
+color: #FFF;
+border: 0;
+font-size: 20px;
+font-weight: 700;
+padding: 20px 43px;
+}
+.banner-title{
+    font-size: 80px;
+    color: #272727;
+    
+}
+.banner-description{
+font-size: 18px;
+font-weight: 400;
+margin-top: 32px;
+color: rgba(39, 39, 39, 0.60);
+max-width: 600px;
+}
+.about{
+    background: #FFF;
+}
+.section-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.section-description{
+    color:rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
 }
