@@ -74,6 +74,8 @@ main{
     display:flex;
     gap: 24px;
     
+    
+    
 }
         .image-container{
             border-radius: 300px 300px 0px 0px;
@@ -172,4 +174,51 @@ line-height: 35px;
 
 }
 
+.devolopment{
+    display: flex;
+    gap: 215px;
+}
+.web-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+margin-top: 24px;
+}
+.web-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.sign-up{
+    text-align: center;
+margin-top: 32px;
+}
+.text-primary{
+    color: #E55473;
+}
+.background-colour{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+.instagram{color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
 
+}
+.paragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+}
+.full-container{
+    display: flex;
+    gap:18px;
+    background:;
+}
