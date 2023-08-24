@@ -250,6 +250,7 @@ background: #E55473;
 text-align: center;
 font-size: 40px;
 font-weight: 800;
+padding-top: 122px;
   }
   .under{
     color: rgba(39, 39, 39, 0.60);
@@ -295,3 +296,38 @@ color: #FFF;
 border: 0px;
 text-align: center;
   }
+  .footer-section{
+    color: #FFF;
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+padding-top: 128px;
+  }
+  .footer-title{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+
+
+
+
+  }
+  .footer-description{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+padding-top: 116px;
+padding-bottom: 128px;
+gap: 32px;
+  }
+  .background-section{
+    background: #111010;
+    
+  }
+  
+    
+  
