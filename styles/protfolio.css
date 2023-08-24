@@ -220,5 +220,78 @@ line-height: 30px;
 .full-container{
     display: flex;
     gap:18px;
-    background:;
+    
 }
+.latest{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.shopping{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+}
+.type{
+    border-radius: 8px;
+background: #FFF;
+text-align: center;
+}
+.subscribe{
+    border-radius: 8px;
+background: #E55473;
+}
+
+  .line{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+  }
+  .under{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+  }
+  .jimi{
+    border-radius: 8px;
+background: #FFF;width: 700px;
+height: 64px;
+flex-shrink: 0;
+text-align:center ;
+
+  }
+  .display{
+    text-align: center;
+    
+  }
+  .background-x{
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+
+
+  }
+  .mail-input{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+
+  }
+  .class-input{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+border: 0px;
+text-align: center;
+  }
